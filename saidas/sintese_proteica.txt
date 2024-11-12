@@ -1,0 +1,23 @@
+Process 3 processed file: rna/chr18.rna and wrote output to: sintese_proteica/chr18.protein
+Process 2 processed file: rna/chr13.rna and wrote output to: sintese_proteica/chr13.protein
+Process 3 processed file: rna/chr19.rna and wrote output to: sintese_proteica/chr19.protein
+Process 1 processed file: rna/chr7.rna and wrote output to: sintese_proteica/chr7.protein
+Process 2 processed file: rna/chr14.rna and wrote output to: sintese_proteica/chr14.protein
+Process 3 processed file: rna/chr20.rna and wrote output to: sintese_proteica/chr20.protein
+Process 0 processed file: rna/chr1.rna and wrote output to: sintese_proteica/chr1.protein
+Process 3 processed file: rna/chr21.rna and wrote output to: sintese_proteica/chr21.protein
+Process 2 processed file: rna/chr15.rna and wrote output to: sintese_proteica/chr15.protein
+Process 3 processed file: rna/chr22.rna and wrote output to: sintese_proteica/chr22.protein
+Process 1 processed file: rna/chr8.rna and wrote output to: sintese_proteica/chr8.protein
+Process 2 processed file: rna/chr16.rna and wrote output to: sintese_proteica/chr16.protein
+Process 1 processed file: rna/chr9.rna and wrote output to: sintese_proteica/chr9.protein
+Process 0 processed file: rna/chr2.rna and wrote output to: sintese_proteica/chr2.protein
+Process 2 processed file: rna/chr17.rna and wrote output to: sintese_proteica/chr17.protein
+Process 1 processed file: rna/chr10.rna and wrote output to: sintese_proteica/chr10.protein
+Process 0 processed file: rna/chr3.rna and wrote output to: sintese_proteica/chr3.protein
+Process 1 processed file: rna/chr11.rna and wrote output to: sintese_proteica/chr11.protein
+Process 0 processed file: rna/chr4.rna and wrote output to: sintese_proteica/chr4.protein
+Process 1 processed file: rna/chr12.rna and wrote output to: sintese_proteica/chr12.protein
+Process 0 processed file: rna/chr5.rna and wrote output to: sintese_proteica/chr5.protein
+Process 0 processed file: rna/chr6.rna and wrote output to: sintese_proteica/chr6.protein
+Total execution time: 31.2441 seconds.

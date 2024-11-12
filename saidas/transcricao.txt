@@ -1,0 +1,23 @@
+Process 3 processed file: entradas_filtradas/chr18.subst.filtered and wrote output to: rna/chr18.rna
+Process 2 processed file: entradas_filtradas/chr13.subst.filtered and wrote output to: rna/chr13.rna
+Process 3 processed file: entradas_filtradas/chr19.subst.filtered and wrote output to: rna/chr19.rna
+Process 1 processed file: entradas_filtradas/chr7.subst.filtered and wrote output to: rna/chr7.rna
+Process 2 processed file: entradas_filtradas/chr14.subst.filtered and wrote output to: rna/chr14.rna
+Process 3 processed file: entradas_filtradas/chr20.subst.filtered and wrote output to: rna/chr20.rna
+Process 0 processed file: entradas_filtradas/chr1.subst.filtered and wrote output to: rna/chr1.rna
+Process 3 processed file: entradas_filtradas/chr21.subst.filtered and wrote output to: rna/chr21.rna
+Process 1 processed file: entradas_filtradas/chr8.subst.filtered and wrote output to: rna/chr8.rna
+Process 2 processed file: entradas_filtradas/chr15.subst.filtered and wrote output to: rna/chr15.rna
+Process 3 processed file: entradas_filtradas/chr22.subst.filtered and wrote output to: rna/chr22.rna
+Process 2 processed file: entradas_filtradas/chr16.subst.filtered and wrote output to: rna/chr16.rna
+Process 0 processed file: entradas_filtradas/chr2.subst.filtered and wrote output to: rna/chr2.rna
+Process 1 processed file: entradas_filtradas/chr9.subst.filtered and wrote output to: rna/chr9.rna
+Process 2 processed file: entradas_filtradas/chr17.subst.filtered and wrote output to: rna/chr17.rna
+Process 1 processed file: entradas_filtradas/chr10.subst.filtered and wrote output to: rna/chr10.rna
+Process 0 processed file: entradas_filtradas/chr3.subst.filtered and wrote output to: rna/chr3.rna
+Process 1 processed file: entradas_filtradas/chr11.subst.filtered and wrote output to: rna/chr11.rna
+Process 0 processed file: entradas_filtradas/chr4.subst.filtered and wrote output to: rna/chr4.rna
+Process 1 processed file: entradas_filtradas/chr12.subst.filtered and wrote output to: rna/chr12.rna
+Process 0 processed file: entradas_filtradas/chr5.subst.filtered and wrote output to: rna/chr5.rna
+Process 0 processed file: entradas_filtradas/chr6.subst.filtered and wrote output to: rna/chr6.rna
+Total execution time: 33.9242 seconds.

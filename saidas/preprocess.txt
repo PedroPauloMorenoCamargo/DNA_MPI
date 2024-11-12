@@ -1,0 +1,23 @@
+Process 2 processing file: entradas/chr11.subst.fa -> entradas_filtradas/chr11.subst.filtered
+Process 0 processing file: entradas/chr1.subst.fa -> entradas_filtradas/chr1.subst.filtered
+Process 1 processing file: entradas/chr6.subst.fa -> entradas_filtradas/chr6.subst.filtered
+Process 3 processing file: entradas/chr16.subst.fa -> entradas_filtradas/chr16.subst.filtered
+Process 3 processing file: entradas/chr17.subst.fa -> entradas_filtradas/chr17.subst.filtered
+Process 2 processing file: entradas/chr12.subst.fa -> entradas_filtradas/chr12.subst.filtered
+Process 3 processing file: entradas/chr18.subst.fa -> entradas_filtradas/chr18.subst.filtered
+Process 1 processing file: entradas/chr7.subst.fa -> entradas_filtradas/chr7.subst.filtered
+Process 2 processing file: entradas/chr13.subst.fa -> entradas_filtradas/chr13.subst.filtered
+Process 0 processing file: entradas/chr2.subst.fa -> entradas_filtradas/chr2.subst.filtered
+Process 3 processing file: entradas/chr19.subst.fa -> entradas_filtradas/chr19.subst.filtered
+Process 1 processing file: entradas/chr8.subst.fa -> entradas_filtradas/chr8.subst.filtered
+Process 2 processing file: entradas/chr14.subst.fa -> entradas_filtradas/chr14.subst.filtered
+Process 3 processing file: entradas/chr20.subst.fa -> entradas_filtradas/chr20.subst.filtered
+Process 3 processing file: entradas/chr21.subst.fa -> entradas_filtradas/chr21.subst.filtered
+Process 2 processing file: entradas/chr15.subst.fa -> entradas_filtradas/chr15.subst.filtered
+Process 3 processing file: entradas/chr22.subst.fa -> entradas_filtradas/chr22.subst.filtered
+Process 0 processing file: entradas/chr3.subst.fa -> entradas_filtradas/chr3.subst.filtered
+Process 1 processing file: entradas/chr9.subst.fa -> entradas_filtradas/chr9.subst.filtered
+Process 1 processing file: entradas/chr10.subst.fa -> entradas_filtradas/chr10.subst.filtered
+Process 0 processing file: entradas/chr4.subst.fa -> entradas_filtradas/chr4.subst.filtered
+Process 0 processing file: entradas/chr5.subst.fa -> entradas_filtradas/chr5.subst.filtered
+Total execution time: 34.2336 seconds.

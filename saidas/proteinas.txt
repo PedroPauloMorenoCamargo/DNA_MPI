@@ -1,0 +1,24 @@
+Process 3 found 222048 complete proteins in file: rna/chr18.rna
+Process 2 found 297013 complete proteins in file: rna/chr13.rna
+Process 3 found 128561 complete proteins in file: rna/chr19.rna
+Process 1 found 452485 complete proteins in file: rna/chr7.rna
+Process 2 found 257014 complete proteins in file: rna/chr14.rna
+Process 0 found 646752 complete proteins in file: rna/chr1.rna
+Process 3 found 155871 complete proteins in file: rna/chr20.rna
+Process 3 found 101268 complete proteins in file: rna/chr21.rna
+Process 3 found 81520 complete proteins in file: rna/chr22.rna
+Process 2 found 231823 complete proteins in file: rna/chr15.rna
+Process 1 found 421819 complete proteins in file: rna/chr8.rna
+Process 2 found 203017 complete proteins in file: rna/chr16.rna
+Process 0 found 706145 complete proteins in file: rna/chr2.rna
+Process 1 found 347291 complete proteins in file: rna/chr9.rna
+Process 2 found 199025 complete proteins in file: rna/chr17.rna
+Process 1 found 372802 complete proteins in file: rna/chr10.rna
+Process 0 found 588633 complete proteins in file: rna/chr3.rna
+Process 1 found 375236 complete proteins in file: rna/chr11.rna
+Process 0 found 585837 complete proteins in file: rna/chr4.rna
+Process 1 found 380794 complete proteins in file: rna/chr12.rna
+Process 0 found 536381 complete proteins in file: rna/chr5.rna
+Process 0 found 505201 complete proteins in file: rna/chr6.rna
+Total complete proteins found: 7796536
+Total execution time: 2.16 seconds.

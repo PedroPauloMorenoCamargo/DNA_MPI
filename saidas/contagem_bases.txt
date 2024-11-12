@@ -1,0 +1,28 @@
+Process 0 processing file: entradas_filtradas/chr1.subst.filtered
+Process 2 processing file: entradas_filtradas/chr13.subst.filtered
+Process 1 processing file: entradas_filtradas/chr7.subst.filtered
+Process 3 processing file: entradas_filtradas/chr18.subst.filtered
+Process 3 processing file: entradas_filtradas/chr19.subst.filtered
+Process 2 processing file: entradas_filtradas/chr14.subst.filtered
+Process 3 processing file: entradas_filtradas/chr20.subst.filtered
+Process 1 processing file: entradas_filtradas/chr8.subst.filtered
+Process 2 processing file: entradas_filtradas/chr15.subst.filtered
+Process 3 processing file: entradas_filtradas/chr21.subst.filtered
+Process 0 processing file: entradas_filtradas/chr2.subst.filtered
+Process 2 processing file: entradas_filtradas/chr16.subst.filtered
+Process 3 processing file: entradas_filtradas/chr22.subst.filtered
+Process 1 processing file: entradas_filtradas/chr9.subst.filtered
+Process 2 processing file: entradas_filtradas/chr17.subst.filtered
+Process 1 processing file: entradas_filtradas/chr10.subst.filtered
+Process 0 processing file: entradas_filtradas/chr3.subst.filtered
+Process 1 processing file: entradas_filtradas/chr11.subst.filtered
+Process 0 processing file: entradas_filtradas/chr4.subst.filtered
+Process 1 processing file: entradas_filtradas/chr12.subst.filtered
+Process 0 processing file: entradas_filtradas/chr5.subst.filtered
+Process 0 processing file: entradas_filtradas/chr6.subst.filtered
+Total counts:
+A: 763517118
+T: 764606176
+C: 511685713
+G: 511971484
+Total execution time: 3.15806 seconds.
