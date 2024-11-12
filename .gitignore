@@ -1,4 +1,7 @@
-*fa
-*filtered
-*rna
-*protein
+# Ignore files with specific extensions
+*.fa
+*.filtered
+*.rna
+*.protein
+
+!rna/
