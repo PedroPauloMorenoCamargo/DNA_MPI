@@ -1,10 +1,11 @@
 # DNA_MPI
 
-This project preprocesses large DNA sequence files, performing the following tasks in parallel:
-1. Counts each type of DNA base (adenine, cytosine, guanine, and thymine).
-2. Transcribes the DNA sequence to RNA.
-3. Counts the number of proteins (polypeptides) in the RNA sequence.
-4. Extracts and outputs the codons from the original DNA sequence.
+This project processes large DNA sequence files, performing the following tasks using MPI:
+1. Filters the original DNA sequence files
+2. Counts each type of DNA base (adenine, cytosine, guanine, and thymine).
+3. Transcribes the DNA sequence to RNA.
+4. Counts the number of proteins (polypeptides) in the RNA sequence.
+5. Extracts and outputs the codons from the original DNA sequence.
 
 ## How to Run
 
